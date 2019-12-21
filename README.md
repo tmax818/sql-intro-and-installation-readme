@@ -36,13 +36,7 @@ If not, then there are a couple of ways you can install SQLite.
 
 #### Install With Homebrew:
 
-Via a package manager for your operating system. If you are on Mac, Homebrew is the way to go. You can install it by pasting:
-
-```bash
-ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
-```
-
-into your terminal. The script that runs will explain what it is doing, and pause before it does it.
+Via a package manager for your operating system. If you are on Mac, Homebrew is the way to go. You can install it by following the [brew installation instructions](https://brew.sh/)
 
 After installing Homebrew, install sqlite with:
 
